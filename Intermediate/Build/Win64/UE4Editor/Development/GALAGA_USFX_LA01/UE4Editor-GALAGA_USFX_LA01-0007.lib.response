@@ -1,0 +1,35 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-GALAGA_USFX_LA01-0007.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_LA01\Intermediate\Build\Win64\GALAGA_USFX_LA01Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_LA01\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_LA01\GALAGA_USFX_LA01.cpp.obj"
+"C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_LA01\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_LA01\GALAGA_USFX_LA01GameMode.cpp.obj"
+"C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_LA01\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_LA01\GALAGA_USFX_LA01Pawn.cpp.obj"
+"C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_LA01\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_LA01\GALAGA_USFX_LA01Projectile.cpp.obj"
+"C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_LA01\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_LA01\NaveEnemiga.cpp.obj"
+"C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_LA01\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_LA01\NaveEnemigaCaza.cpp.obj"
+"C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_LA01\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_LA01\NaveEnemigaEspia.cpp.obj"
+"C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_LA01\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_LA01\NaveEnemigaNodriza.cpp.obj"
+"C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_LA01\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_LA01\NaveEnemigaRebastecimiento.cpp.obj"
+"C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_LA01\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_LA01\NaveEnemigaTransporte.cpp.obj"
+"C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_LA01\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_LA01\Nave_Transporte_Elite.cpp.obj"
+"C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_LA01\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_LA01\Nave_Transporte_Invisible.cpp.obj"
+"C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_LA01\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_LA01\GALAGA_USFX_LA01.init.gen.cpp.obj"
+"C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_LA01\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_LA01\GALAGA_USFX_LA01GameMode.gen.cpp.obj"
+"C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_LA01\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_LA01\GALAGA_USFX_LA01Pawn.gen.cpp.obj"
+"C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_LA01\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_LA01\GALAGA_USFX_LA01Projectile.gen.cpp.obj"
+"C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_LA01\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_LA01\NaveEnemiga.gen.cpp.obj"
+"C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_LA01\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_LA01\NaveEnemigaCaza.gen.cpp.obj"
+"C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_LA01\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_LA01\NaveEnemigaEspia.gen.cpp.obj"
+"C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_LA01\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_LA01\NaveEnemigaNodriza.gen.cpp.obj"
+"C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_LA01\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_LA01\NaveEnemigaRebastecimiento.gen.cpp.obj"
+"C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_LA01\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_LA01\NaveEnemigaTransporte.gen.cpp.obj"
+"C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_LA01\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_LA01\Nave_Transporte_Elite.gen.cpp.obj"
+"C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_LA01\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_LA01\Nave_Transporte_Invisible.gen.cpp.obj"
+"C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_LA01\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_LA01\Default.rc2.res"
+/OUT:"C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_LA01\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_LA01\UE4Editor-GALAGA_USFX_LA01-0007.lib"

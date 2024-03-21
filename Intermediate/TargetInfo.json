@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GALAGA_USFX_LA01",
+			"Path": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Unreal Projects\\GALAGA_USFX_LA01\\Source\\GALAGA_USFX_LA01.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GALAGA_USFX_LA01Editor",
+			"Path": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Unreal Projects\\GALAGA_USFX_LA01\\Source\\GALAGA_USFX_LA01Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

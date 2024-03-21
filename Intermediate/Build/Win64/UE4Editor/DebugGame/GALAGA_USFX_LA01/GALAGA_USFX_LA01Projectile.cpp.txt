@@ -1,0 +1,7 @@
+C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_LA01\Intermediate\Build\Win64\UE4Editor\DebugGame\GALAGA_USFX_LA01\Definitions.GALAGA_USFX_LA01.h
+C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_LA01\Source\GALAGA_USFX_LA01\GALAGA_USFX_LA01Projectile.h
+C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_LA01\Intermediate\Build\Win64\UE4Editor\Inc\GALAGA_USFX_LA01\GALAGA_USFX_LA01Projectile.generated.h
+C:\JUEGOS\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/ProjectileMovementComponent.h
+C:\JUEGOS\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+C:\JUEGOS\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
+C:\JUEGOS\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ProjectileMovementComponent.generated.h

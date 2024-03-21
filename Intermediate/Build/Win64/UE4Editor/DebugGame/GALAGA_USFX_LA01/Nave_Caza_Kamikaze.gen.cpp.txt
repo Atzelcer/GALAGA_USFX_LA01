@@ -1,0 +1,9 @@
+C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_LA01\Intermediate\Build\Win64\UE4Editor\DebugGame\GALAGA_USFX_LA01\Definitions.GALAGA_USFX_LA01.h
+C:\JUEGOS\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\JUEGOS\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_LA01\Source\GALAGA_USFX_LA01/Nave_Caza_Kamikaze.h
+C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_LA01\Source\GALAGA_USFX_LA01\NaveEnemigaCaza.h
+C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_LA01\Source\GALAGA_USFX_LA01\NaveEnemiga.h
+C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_LA01\Intermediate\Build\Win64\UE4Editor\Inc\GALAGA_USFX_LA01\NaveEnemiga.generated.h
+C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_LA01\Intermediate\Build\Win64\UE4Editor\Inc\GALAGA_USFX_LA01\NaveEnemigaCaza.generated.h
+C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_LA01\Intermediate\Build\Win64\UE4Editor\Inc\GALAGA_USFX_LA01\Nave_Caza_Kamikaze.generated.h

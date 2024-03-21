@@ -1,0 +1,24 @@
+C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_LA01\Intermediate\Build\Win64\UE4Editor\DebugGame\GALAGA_USFX_LA01\Definitions.GALAGA_USFX_LA01.h
+C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_LA01\Source\GALAGA_USFX_LA01\GALAGA_USFX_LA01Pawn.h
+C:\JUEGOS\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\JUEGOS\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+C:\JUEGOS\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+C:\JUEGOS\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\JUEGOS\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\JUEGOS\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_LA01\Intermediate\Build\Win64\UE4Editor\Inc\GALAGA_USFX_LA01\GALAGA_USFX_LA01Pawn.generated.h
+C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_LA01\Source\GALAGA_USFX_LA01\GALAGA_USFX_LA01Projectile.h
+C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_LA01\Intermediate\Build\Win64\UE4Editor\Inc\GALAGA_USFX_LA01\GALAGA_USFX_LA01Projectile.generated.h
+C:\JUEGOS\UE_4.27\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
+C:\JUEGOS\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h
+C:\JUEGOS\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/SpringArmComponent.h
+C:\JUEGOS\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SpringArmComponent.generated.h
+C:\JUEGOS\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+C:\JUEGOS\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+C:\JUEGOS\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\JUEGOS\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+C:\JUEGOS\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+C:\JUEGOS\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+C:\JUEGOS\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+C:\JUEGOS\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+C:\JUEGOS\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
